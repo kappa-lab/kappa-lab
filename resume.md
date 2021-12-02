@@ -63,3 +63,42 @@
 - Android Studio
 - Unity
 - Adobe Flash/Animate
+
+
+# Job Career
+
+### TL;DR
+1. Interactive Website Designer/Developer (Flash/JS/HTML/CSS)
+2. Feature Phone Game Developer (Flash/JS/HTML/CSS)
+3. Smart Phone Game Developer（Unity）
+4. Android App Developer（Kotlin/Go）
+
+
+## 2006/01~2012/01
+
+- Freelance
+  - Web Designer/Developer/Director
+- Outputs
+  - Interactive Website Develop
+  - Corporate Website Develop
+
+## 2012/02~2018/12
+- Social Game Company
+  - Interaction Designer
+  - Client Side Software Enginner
+  - Server Side Software Enginner
+- Outputs
+  - Feature Phone Game
+  - Smart Phone Game
+
+## 2019/01~
+- Hardware Enabled SaaS Company
+  - Client Side Software Enginner
+  - Server Side Software Enginner
+- Outputs
+  - Android Application
+  - Hardware Development Support Application
+  - Restful API Server
+
+
+
