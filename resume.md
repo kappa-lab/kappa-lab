@@ -33,9 +33,14 @@
   - CRIWARE
   - Live2D(Cubism SDK)
 
+## DataStore
+- DynamoDB
+- Redis
+- MySQL
+
 ## Tools
-- Kubernetes
 - Docker
+- Kubernetes
 
 ## Cloud Service
 - Amazon Web Service
@@ -48,6 +53,10 @@
   - Elastic Container Service
   - CloudWatch
   - CloudFormation
+  - Lambda
+  - Cognito
+  - RDS
+  - ElastiCache
 - Firebase
   - Analytics
   - Cloud Functions
