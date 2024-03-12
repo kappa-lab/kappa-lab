@@ -20,6 +20,7 @@
   - k8s.io/client-go(Go client for Kubernetes.)
   - go-ethereum
   - gorm
+  - Fx(uber-go/fx)
 - Kotlin
   - Spek Framework
   - Robolectric
@@ -53,9 +54,12 @@
   - Cloud Messaging
 
 ## CI
+- GitHub Actions
 - CircleCI
 - Jenkins
-- GitHub Actions
+
+## SaaS
+-  Codecov
 
 ## OS
 - macOS
