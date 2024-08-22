@@ -19,6 +19,8 @@
   - AWS SDK for Go
   - k8s.io/client-go(Go client for Kubernetes.)
   - go-ethereum
+  - go-elasticsearch
+  - opensearch-go
   - gorm
   - Fx(uber-go/fx)
 - Kotlin
@@ -37,6 +39,9 @@
 - DynamoDB
 - Redis
 - MySQL
+- PostgreSQL
+- Elasticsearch
+- OpenSearch
 
 ## Tools
 - Docker
@@ -57,6 +62,12 @@
   - Cognito
   - RDS
   - ElastiCache
+  - OpenSearch Service
+- Google Cloud
+  - Cloud Run
+  - Cloud Strage
+  - SQL
+  - Elastic Cloud
 - Firebase
   - Analytics
   - Cloud Functions
