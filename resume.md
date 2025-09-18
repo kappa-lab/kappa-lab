@@ -12,16 +12,17 @@
 
 ## Framework / Library
 - Go
+  - go-openai
   - Echo
   - Gorilla WebSocket
-  - gomock
-  - ginkgo
-  - AWS SDK for Go
-  - k8s.io/client-go(Go client for Kubernetes.)
   - go-ethereum
   - go-elasticsearch
   - opensearch-go
   - gorm
+  - gomock
+  - ginkgo
+  - AWS SDK for Go
+  - k8s.io/client-go(Go client for Kubernetes.)
   - Fx(uber-go/fx)
 - Kotlin
   - Spek Framework
@@ -46,21 +47,22 @@
 ## Tools
 - Docker
 - Kubernetes
+- Terraform
 
 ## Cloud Service
 - Amazon Web Service
-  - EC2
-  - S3
+  - Elastic Container Service
+  - Elastic Container Registry
+  - RDS
   - DynamoDB
   - Route 53
+  - EC2
+  - S3
   - Elastic Beanstalk
-  - Elastic Container Registry
-  - Elastic Container Service
   - CloudWatch
   - CloudFormation
   - Lambda
   - Cognito
-  - RDS
   - ElastiCache
   - OpenSearch Service
 - Google Cloud
@@ -128,7 +130,7 @@
   - Hardware Development Support Application
   - Restful API Server
 
-## 2022/02~
+## 2022/02~2024/04
 - Web3 Service Company
   - Server Side Software Enginner
 - Outputs
@@ -136,6 +138,14 @@
   - Restful API Server
   - Ethereum JSON RPC Tools
 
+## 2024/05~
+- Web Service Company
+  - Server Side Software Enginner
+- Outputs
+  - AI-integrated educational web service for children
+  - Open-AI API Client
+  - GraphQL API Server
+  
 
 
 
